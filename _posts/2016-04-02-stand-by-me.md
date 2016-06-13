@@ -2,7 +2,7 @@
 layout: post
 title: Stand by Me
 categories:
-- uke playing
+
 ---
 Stand by me 是 Ben E. King 1961 的一首歌，John Lennon 也唱过，YouTube可搜到。2012年此歌版权总收入估计为一千七百万英镑，是第六名最赚钱的歌曲，其中50%付给了Ben E. King.
 

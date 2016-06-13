@@ -2,7 +2,7 @@
 layout: post
 title: 喜欢
 categories:
-- uke playing
+
 ---
 “所以明天下午3点？” 他用睡不醒的声音问道。
 我点了点头。

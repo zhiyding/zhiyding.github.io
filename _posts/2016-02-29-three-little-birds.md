@@ -2,7 +2,7 @@
 layout: post
 title: Three Little Birds
 categories:
-- uke playing
+
 ---
 Artist: Bob Marley
 Year: 1977

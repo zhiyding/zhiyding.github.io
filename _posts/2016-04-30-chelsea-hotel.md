@@ -2,7 +2,7 @@
 layout: post
 title: Chelsea Hotel #2
 categories:
-- uke playing
+
 ---
 原创：Leonard Cohen
 年份：1974
