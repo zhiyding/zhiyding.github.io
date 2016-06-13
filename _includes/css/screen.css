@@ -265,3 +265,10 @@ sup {
   vertical-align: super;
   font-size: smaller;
 }
+
+.share-posts {
+  clear: both;
+  padding-bottom: .5rem;
+  font-size: .8rem;
+
+}
