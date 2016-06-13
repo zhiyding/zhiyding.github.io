@@ -7,7 +7,7 @@ categories:
 Artist: 黄家驹 & Beyond
 Year: 1993
 
-{% soundcloud tracks 268865506 %}
+
 
 今天我　寒夜里看雪飘过
 怀着冷却了的心窝漂远方
