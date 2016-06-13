@@ -4,9 +4,9 @@ title: Greenfields
 categories:
 
 ---
-原唱：The Brothers Four
-首发：1960
-歌词：
+原唱：The Brothers Four    
+首发：1960    
+歌词：    
 Once there were greenfields kissed by the sun;    
 Once there were valleys where rivers used to run;    
 Once there was blue sky with white clouds high above;    
