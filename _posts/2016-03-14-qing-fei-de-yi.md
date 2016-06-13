@@ -6,6 +6,8 @@ categories:
 ---
 弹唱：KC
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268865934&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 He first met Olivia at the University's swimming pool. He had a whole lane by himself and enjoyed some 22 spacious laps, when she appeared and asked if it's ok to join his lane. He said ok and ended up swimming circles with her until he had cramps in both legs.
 
 "How are you holding up?" She asked.

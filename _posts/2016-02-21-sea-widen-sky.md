@@ -7,7 +7,7 @@ categories:
 Artist: 黄家驹 & Beyond
 Year: 1993
 
-{% soundcloud tracks 268865506 %}
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268865506&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 今天我　寒夜里看雪飘过
 怀着冷却了的心窝漂远方
@@ -27,5 +27,3 @@ Year: 1993
 也会怕有一天会跌倒
 背弃了理想　谁人都可以
 那会怕有一天只你共我
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268865506&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
