@@ -1,0 +1,26 @@
+<nav>
+  <a href="/">
+    {% if site.data.theme.social.gravatar %}
+    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
+    {% else %}
+    <img src="/logo.png" id="logo" alt="Blog logo"/>
+    {% endif %}
+  </a>
+  <h2><a href="/">{{ site.data.theme.name }}</a>.</h2>
+  <div id="bio">
+    <p>乌克丽丽弹唱分享</p>
+    <p>Playing Ukelele
+    </p>
+  </div>
+  <div id = "social" align = "center">
+  加入<a href = "https://tinyletter.com/ukelele">邮件订阅列表</a> - Email Sign-Up!
+  </div>
+
+  <div id="qr">
+  微信公众号二维码 - Scan it :)
+  <div id="qrcode">
+    <img class = "imglogo" src="/qrcode.jpg" id="logo" alt="QRcode"/>
+  </div>
+  </div>
+
+</nav>

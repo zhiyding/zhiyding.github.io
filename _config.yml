@@ -1,0 +1,7 @@
+# General Jekyll Config
+highlighter: rouge
+url: http://fablesfriday.com
+title: 乌克和丽丽
+lsi: false
+#disqus: fill in if necessary
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
