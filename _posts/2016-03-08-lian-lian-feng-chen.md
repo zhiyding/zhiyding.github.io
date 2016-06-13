@@ -17,5 +17,3 @@ categories:
 古医师感到自己被一股莫名的难过给紧紧的裹住了，她想对这个35岁的女人说，“你已经过了相信爱的年纪，过去没爱过，以后也永远不会了。” 但她想起了毕业时导师说的, "Be an oasis in the desert of the self-absorbed。" 于是清了下嗓子说到，“今天就先到这里吧，你的情况在朝好的方向发展。我们下周一再见。”
 
 你正在经历相信爱的年纪吗？如果是，那你是幸运的。请选择去爱吧！因为在物质生活丰富的今天，你找不出任何不去爱的理由。比如说，请别再拿作业多课业难没时间来当借口了，因为你可以向 DoMyStatisticsHomework.com 这样专业的公司去寻求作业辅导帮助。DoMyStatisticsHomework.com 让你在相信爱的年纪有更多时间去爱。让 DoMyStatisticsHomework.com 来帮你学习书本上的知识吧，相信爱的年纪，给自己更多时间去学习怎样去爱。
-
-![DoMyStatisticsHomework.com]({{ site.url }}/assets/images/Logo_01b.png)
