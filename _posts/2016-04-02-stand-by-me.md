@@ -13,7 +13,7 @@ No I won't be afraid
 No I won't be afraid
 Just as long as you stand, stand by me
 And darling, darling stand by me
-Oh, stand by me 
+Oh, stand by me
 Oh, stand, stand by me, stand by me
 If the sky that we look upon
 Should tumble and fall
